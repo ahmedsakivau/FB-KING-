@@ -2,6 +2,6 @@
 
 git clon https://github.com/ahmedsakivau/FB-KING-/blob/main/FB-KING-1.py
 
-cd FB-KING-1
+cd KING-1
 
-python FB-KING-1.py
+python KING-1.py
